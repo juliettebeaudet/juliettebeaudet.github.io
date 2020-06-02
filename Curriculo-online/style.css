@@ -1,15 +1,49 @@
 body {
-    background-color: #F9FBDA;
+    background-color: rgb(243, 222, 152);
+    max-width: 100%;
+    text-align: center,
 }
 
 .title {
     font-style: "Roboto", sans serif;
     color: darkgoldenrod;
-    font-size: 2.5em;
+    font-size: 2em;
+    text-align: center;
+    background-color: brown;
 }
 
-.intro {
+.hi {
+    font-size: 20px;
+    max-width: 90;
+}
+
+nav {
     text-align: center;
+}
+footer {
+    text-align: center;
+}
+
+.credit {
+    text-align: center;
+}
+
+.skills {
+    padding: 35px;
+    margin-top: 500px;
+}
+
+#voltar {
+    text-align: center;
+}
+
+.pic {
+    float:left;
+    margin-right: 40px;
+}
+
+.hi {
+    margin-bottom: 140px;
 }
 
 h3 {
@@ -17,10 +51,25 @@ h3 {
 
 }
 
-.pic {
-    border-radius: 11%;
+h2 {
+    color: brown
+
 }
 
-.rodape {
+
+
+.pic {
+    border-radius: 22%;
+    padding: 20px;
+    background-color: darkgoldenrod;
+    
+
+}
+
+footer {
     text-align: center;
+}
+
+.respirar {
+    margin: 30px;
 }

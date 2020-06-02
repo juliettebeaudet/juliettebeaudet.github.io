@@ -4,85 +4,101 @@
 <head>
     <meta charset="utf-8">
     <title>Portfolio Juliette Beaudet</title>
-    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
+    <section class="intro title" id="voltar">
+        <h1>Juliette Beaudet</h1>
+    </section>
 
-    <article class="intro">
-
-        <!--Nome completo-->
-        <h1 id="voltar" class="title">Juliette Beaudet</h1>
-
-        <!-- Um índice com links internos para as diferentes seções do seu portfólio.-->
+    <!-- NAV -->
+    <nav class="nav">
         <p>
             <a href="#sobre">Sobre mim</a>
             <a href="#skills">| Skills</a>
             <a href="#inspira">| Inspiração</a>
         </p>
+    </nav>
 
-        <!--Uma foto atual sua...-->
-        <img class="pic" src="fotojutech.png" alt="Foto Ju portfolio" height="333">
+    <!--FOTO + frase-->
+    <section class="foto respirar">
+        <p class="hi">
+            <img class="pic" src="fotojutech.png" alt="Foto Ju portfolio" height="184">
+            Olá! Sou a Juliette. <br>Francesa residente em São Paulo no Brasil, sou apaixonada por empreendedorismo tecnológico de impacto.
+            <br>
+            Prazer! </p>
+        <p><em>Créditos: Kazuo Kajihara</em>
+        </p>
 
-        <!-- Acompanhada de um texto alternativo, que deve ser a descrição da foto que você está usando-->
-        <p><em>Créditos: Kazuo Kajihara</em></p>
+    </section>
+
+
+    <!--ABOUT-->
+    <section class="about respirar">
+        <h2 id="sobre">Sobre mim</h2>
+        <p> Depois de iniciar minha vida profissional como diplomata, resolvi migrar pelo setor privado para aumentar meu impacto, virando sócia da startup cultural daleGig. <br> 
+            Acreditando no poder transformador das soluções tecnológicas, assumo atualmente três atividades em paralelo: 
+            <ul>
+            <li>Co-direção estratégica da minha startup;</li> 
+            <li>Mentoria para empreendedores; </li>
+            <li>Formação em desenvolvimento web.</li></p>
+        </ul>
+        </section>
+
+    <!--SKILLS-->
+
+    <article id="skills" class="respirar">
+
+        <h2>Minhas competências</h2>
+
+        <section class="skills-business">
+            <h3>Como empreendedora</h3>
+            <ul>
+                <li>Mestre em Relações Internacionais</li>
+                <li>Direção estratégica da startup de impacto daleGig</li>
+            </ul>
+        </section>
+
+        <section class="skills-dev">
+            <h3>Como desenvolvedora</h3>
+            <ul>
+                <li>Desenvolvimento front-end: HTML, CSS, Js</li>
+                <li>Git e GitHub</li>
+                <li>Ambiente tecnológico: Linux, Unix, Shell Script, Internet</li>
+            </ul>
+        </section>
+
+        <section class="skills-human">
+            <h3>Como ser humano</h3>
+            <ul>
+                <li>Atleta: escaladora em rocha</li>
+                <li>Artista: violista de arco</li>
+                <li>Mente: ioga, inteligência emocional</li>
+            </ul>
+        </section>
+
+        </ul>
+
     </article>
 
-    <!--Uma breve descrição sobre você, destacando algumas informações como nacionalidade e a cidade/estado onde mora;-->
-    <h3 id="sobre">Sobre mim</h3>
-    <p> Francesa residente em São Paulo no Brasil, estou apaixonada por empreendedorismo tecnológico de impacto.</p>
-    <!--Uma lista de habilidades que você possui, com destaque para aquela de que você mais se orgulha;-->
-    <h3 id="skills">Minhas competências</h3>
+
+    <!--INSPIRATION-->
+    <aside id="inspira" class="respirar">
+        <h2>Inspirações</h2>
+        <p>Veja os <a id="inspira" target="_blank" href=https://www.ted.com />vídeos</a> que gosto de assistir para me
+            inspirar.</p>
+   
+    <div>
+        <a href="#voltar"> Voltar</a>
+    </div>
+
+</aside>
 
 
-    <ul>
-        <li><strong>Como empreendedora</strong></li>
-        <br>
-
-        <ul>
-            <li>Mestre em Relações Internacionais</li>
-            <li>Direção estratégica da startup de impacto daleGig</li>
-
-        </ul>
-        <br>
-
-        <li><strong>Como desenvolvedora</strong> </li>
-        <br>
-        <ul>
-            <li>Desenvolvimento front-end: HTML, CSS, Js</li>
-            <li>Git e GitHub</li>
-            <li>Ambiente tecnológico: Linux, Unix, Shell Script, Internet</li>
-        </ul>
-        <br>
-
-        <li><strong>Como ser humano</strong></li>
-        <br>
-        <ul>
-            <li>Atleta: escaladora em rocha</li>
-            <li>Artista: violista de arco</li>
-            <li>Mente: ioga, inteligência emocional</li>
-
-        </ul>
-
-    </ul>
-
-    <!--Um link interno para a sua foto;-->
-
-    <!--Um link externo para algum blog de que você goste, que abra em uma nova aba;-->
-    <h3 id="inspira">Inspirações</h3>
-    <p>Veja os <a id="inspira" target="_blank" href=https://www.ted.com >vídeos</a> que gosto de assistir para me
-        inspirar.</p>
-    <br>
-    <br>
-    <br>
-    
-    <article class="rodape">
-    
-    <a href="#voltar">Voltar</a>
-</article>
-
-
-
+    <footer class="respirar">
+        <p>Juliette Beaudet - Copyright 2020</p>
+    </footer>
 
 
 </body>
