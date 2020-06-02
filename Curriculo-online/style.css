@@ -1,7 +1,6 @@
 body {
     background-color: rgb(243, 222, 152);
     max-width: 100%;
-    text-align: center,
 }
 
 .title {
@@ -14,12 +13,14 @@ body {
 
 .hi {
     font-size: 20px;
-    max-width: 90;
+    max-width: 50%;
+    /* text-align: center; */
 }
 
 nav {
     text-align: center;
 }
+
 footer {
     text-align: center;
 }
@@ -29,47 +30,72 @@ footer {
 }
 
 .skills {
-    padding: 35px;
-    margin-top: 500px;
+    margin: 40px 0px 40px 40px;
 }
+
 
 #voltar {
     text-align: center;
 }
 
-.pic {
-    float:left;
-    margin-right: 40px;
+.intro-foto {
+    display: flex;
+    align-items: center;
 }
 
-.hi {
-    margin-bottom: 140px;
+.pic {
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 22%;
+    padding: 20px;
+    background-color: darkgoldenrod;
+}
+
+.skills-business {
+    display:flex;
+    align-items: center;
+}
+
+.skills-dev {
+    display:flex;
+    align-items: center;
+}
+
+.skills-human {
+    display:flex;
+    align-items: center;
 }
 
 h3 {
-    color: darkgoldenrod
+    color: darkgoldenrod;
 
 }
 
 h2 {
-    color: brown
-
+    color: brown;
 }
 
+a {
+    text-decoration: none;
+    color: rgb(68, 54, 9);
+}
 
+.about {
+    margin: 40px 0px 40px 40px;
+}
 
-.pic {
-    border-radius: 22%;
-    padding: 20px;
-    background-color: darkgoldenrod;
-    
+.redes {
+    margin: 40px 0px 40px 40px;
+}
 
+aside {
+    text-align: center; 
+    margin: 40px 0px 40px 40px;
 }
 
 footer {
+    margin: 20px 0px 40px 40px;
     text-align: center;
-}
-
-.respirar {
-    margin: 30px;
+    color:  rgb(68, 54, 9);
+    font-size: 11px;
 }
