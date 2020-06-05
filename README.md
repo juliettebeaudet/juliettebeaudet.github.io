@@ -1,4 +1,4 @@
-This repository contains all learning activities developed by *[Juliette Beaudet](https://github.com/juliettebeaudet/)* while studying at [Trybe](https://www.betrybe.com/).<br>
+This repository contains all projects developed by *[Juliette Beaudet](https://github.com/juliettebeaudet/)* while studying at [Trybe](https://www.betrybe.com/).<br>
 The program has more than **1,500 hours** of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.<br>
 Each project has been designed to train different sets of new skills.
 
