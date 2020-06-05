@@ -9,8 +9,8 @@ Each project has been designed to train different sets of new skills.
 [Project - Website](https://juliettebeaudet.github.io/outdoor_geckos/)
 
 <em>JS</em><br>
-[Project - Meme Generator](https://juliettebeaudet.github.io/meme-generator/)
-[Project - Pixel Art](https://juliettebeaudet.github.io/pixel-art/)
+[Project - Meme Generator](https://juliettebeaudet.github.io/meme-generator/)<br>
+[Project - Pixel Art](https://juliettebeaudet.github.io/pixel-art/)<br>
 [Project - To Do List](https://juliettebeaudet.github.io/to-do-list/)
 
 <br>
