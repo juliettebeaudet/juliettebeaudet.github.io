@@ -1,21 +1,22 @@
-This repository contains all projects developed by Juliette Beaudet while studying at Trybe.<br>
+This repository contains all learning activities developed by *[Juliette Beaudet](https://github.com/juliettebeaudet/)* while studying at [Trybe](https://www.betrybe.com/).
 Each one has been designed to train different sets of new skills.
 
 <strong>I - Introduction to Web Development</strong>
 <br><br>
 <em>Html & CSS</em><br>
-Project CV: make your online portfolio.<br>
-Project outdoor_geckos: basic travel blog website.
+[Project - CV](https://juliettebeaudet.github.io/CV/)<br>
+[Project - Website](https://juliettebeaudet.github.io/outdoor_geckos/)
 
 <em>JS</em><br>
-Project Meme Generator<br>
-Project Pixel Art<br>
-Project To-do-list
+[Project - Meme Generator](https://juliettebeaudet.github.io/meme-generator/)
+[Project - Pixel Art](https://juliettebeaudet.github.io/pixel-art/)
+[Project - To Do List](https://juliettebeaudet.github.io/to-do-list/)
 
 <br>
 <strong>II - Front end</strong><br>
+<br>
 <em>Forms, libraries and CSS Flexbox</em><br>
-Project Facebook
+Project - Facebook homepage 
 
 
 
