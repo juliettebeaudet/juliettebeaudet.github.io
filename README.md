@@ -14,7 +14,7 @@ Project To-do-list
 
 <br>
 <strong>II - Front end</strong><br>
-<em>Forms, libraries and CSS Flexbox</em>
+<em>Forms, libraries and CSS Flexbox</em><br>
 Project Facebook
 
 
