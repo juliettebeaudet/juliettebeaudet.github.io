@@ -1,0 +1,274 @@
+body {
+  background: white;
+  color: #1c1e21;
+  direction: ltr;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.34;
+  margin: 0;
+  padding: 0;
+}
+
+.top-bar {
+  align-items: center;
+  background-color: rgb(59, 89, 152);
+  background-image: linear-gradient(rgb(78, 105, 162), rgb(59, 89, 152) 50%);
+  border-bottom: 1px solid rgb(19, 55, 131);
+  color: white;
+  display: flex;
+  font-size: 12px;
+  height: 83px;
+  justify-content: space-around;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  width: 100%;
+}
+
+.logo-container-left {
+  margin-right: 128px;
+}
+
+.facebook-logo {
+  height: 34px;
+  margin-top: 13px;
+  width: 170px;
+}
+
+.session-container-right {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+
+.if-forgot {
+  color: rgb(156, 180, 216);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.if-forgot:hover {
+  text-decoration: underline;
+}
+
+.top-input {
+  border: 1px solid rgb(29, 42, 91);
+  border-radius: 0;
+  margin: 4px 0;
+  padding: 3px 0;
+  width: 148px;
+}
+
+.button-login {
+  background-color: rgb(66, 103, 178);
+  border: 1px solid rgb(41, 72, 125);
+  border-radius: 2px;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 18px;
+  padding: 2px 6px;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: none;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+.button-login:hover {
+  background-color: rgb(54, 88, 153);
+}
+
+.moreinfo {
+  height: 19px;
+  margin-left: 10px;
+  margin-top: 5px;
+  width: 19px;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0 14px;
+}
+
+.password-container {
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0 14px;
+
+}
+
+.button-container {
+  align-items: center;
+  display: flex;
+  padding: 0 0 0 14px;
+}
+
+.main {
+  background: linear-gradient(white, rgb(211, 216, 232));
+  display: flex;
+  padding-top: 84px;
+  width: 100%;
+}
+
+.left-side {
+  margin-left: 150px;
+  width: 52%;
+}
+
+h2 {
+  color: rgb(14, 56, 95);
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 29px;
+  margin-top: 40px;
+  width: 450px;
+  word-spacing: -1px;
+}
+
+.network {
+  height: 195px;
+  margin-top: -19px;
+  padding: 0;
+  width: 537px;
+}
+
+.right-side {
+  margin: -13px 11px 0 0;
+  width: 48%;
+
+}
+
+h1 {
+  color: rgb(51, 51, 51);
+  font-size: 36px;
+  height: 48px;
+  margin-bottom: 5px;
+}
+
+h3 {
+  color: rgb(29, 33, 41);
+  font-size: 19px;
+  font-weight: initial;
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+}
+
+.right-side .label {
+  color: #90949c;
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 9px;
+
+}
+
+.input {
+  background-color: white;
+  border: 1px solid rgb(189, 199, 216);
+  border-radius: 5px;
+  cursor: text;
+  font-size: 18px;
+  margin-bottom: 10px;
+  padding: 8px 10px;
+  padding-bottom: 8px;
+  width: 377px;
+}
+
+.fullname {
+  width: 172px;
+}
+
+.div-full-name {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bottom-inputs {
+  margin-bottom: 10px;
+}
+
+.date {
+  font-size: 13px;
+  padding: 5px;
+  width: 172px;
+}
+
+.date-info {
+  display: flex;
+}
+
+.gender-div {
+  color: rgb(29, 33, 41);
+  font-size: 18px;
+  line-height: 18px;
+  padding: 0 10px 0 3px;
+}
+
+.gender-div label {
+  margin-right: 13px;
+}
+
+.page a {
+  color: blue;
+  text-decoration: none;
+}
+
+.terms {
+  color: #777;
+  font-size: 11px;
+  padding: 11px 0;
+  width: 316px;
+}
+
+.terms a {
+  color: blue;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.page a:hover {
+  text-decoration: underline;
+}
+
+.terms a:hover {
+  text-decoration: underline;
+}
+
+.register {
+  background: linear-gradient(rgb(103, 174, 85), rgb(87, 136, 67));
+  border: 1px solid rgb(59, 110, 34);
+  border-radius: 5px;
+  box-shadow: inset 0 1px 1px rgb(164, 227, 136);
+  color: white;
+  cursor: pointer;
+  font-family: Freight Sans Bold, Helvetica, Arial, sans-serif;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 126%;
+  min-width: 194px;
+  padding: 7px 20px;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+  width: 194px;
+}
+
+.register:hover {
+  background: linear-gradient(rgb(121, 188, 100), rgb(87, 136, 67));
+}
+
+.page {
+  color: #666;
+  font-size: 13px;
+  font-weight: 700;
+  margin-bottom: 40px;
+  margin-top: 10px;
+  padding-top: 15px;
+}
