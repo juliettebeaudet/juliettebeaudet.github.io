@@ -17,7 +17,4 @@ Each project has been designed to train different sets of new skills.
 <strong>II - Front end</strong><br>
 <br>
 <em>Forms, libraries and CSS Flexbox</em><br>
-Project - Facebook homepage 
-
-
-
+[Project - Facebook signup page](https://juliettebeaudet.github.io/facebook/)
