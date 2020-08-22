@@ -14,8 +14,6 @@ Each project has been designed to train different sets of new skills.
 <em>Forms, libraries and CSS Flexbox</em><br>
 [Project - Facebook signup page](https://juliettebeaudet.github.io/facebook/)
 
-<em>React and Redux</em><br>
-[Project - Star Wars Data Table](https://juliettebeaudet.github.io/)
 
 
 
