@@ -12,7 +12,7 @@ Each project has been designed to train different sets of new skills.
 [Project - To Do List](https://juliettebeaudet.github.io/to-do-list/)
 
 <em>Forms, libraries and CSS Flexbox</em><br>
-[Project - Facebook signup page](https://juliettebeaudet.github.io/facebook/)
+[Project - Facebook signup page](https://juliettebeaudet.github.io/mock-fb-project/)
 
 
 
